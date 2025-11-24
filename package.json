@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/optio-quasi-pariatur-laudantium",
-  "version": "11.48.522",
+  "version": "11.48.523",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -393,5 +393,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/optio-quasi-pariatur-laudantium/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
